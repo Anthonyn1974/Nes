@@ -1,0 +1,12 @@
+/home/anthony/development/c#/Emulation/NES/obj/Debug/netcoreapp2.2/nes.csprojAssemblyReference.cache
+/home/anthony/development/c#/Emulation/NES/obj/Debug/netcoreapp2.2/nes.csproj.CoreCompileInputs.cache
+/home/anthony/development/c#/Emulation/NES/obj/Debug/netcoreapp2.2/nes.AssemblyInfoInputs.cache
+/home/anthony/development/c#/Emulation/NES/obj/Debug/netcoreapp2.2/nes.AssemblyInfo.cs
+/home/anthony/development/c#/Emulation/NES/bin/Debug/netcoreapp2.2/nes.deps.json
+/home/anthony/development/c#/Emulation/NES/bin/Debug/netcoreapp2.2/nes.runtimeconfig.json
+/home/anthony/development/c#/Emulation/NES/bin/Debug/netcoreapp2.2/nes.runtimeconfig.dev.json
+/home/anthony/development/c#/Emulation/NES/bin/Debug/netcoreapp2.2/nes.dll
+/home/anthony/development/c#/Emulation/NES/bin/Debug/netcoreapp2.2/nes.pdb
+/home/anthony/development/c#/Emulation/NES/obj/Debug/netcoreapp2.2/nes.dll
+/home/anthony/development/c#/Emulation/NES/obj/Debug/netcoreapp2.2/nes.pdb
+/home/anthony/development/c#/Emulation/NES/bin/Debug/netcoreapp2.2/Content/Arial12pt.xnb

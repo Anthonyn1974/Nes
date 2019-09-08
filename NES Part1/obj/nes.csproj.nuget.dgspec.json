@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/anthony/development/c#/Emulation/NES/nes.csproj": {}
+  },
+  "projects": {
+    "/home/anthony/development/c#/Emulation/NES/nes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/anthony/development/c#/Emulation/NES/nes.csproj",
+        "projectName": "nes",
+        "projectPath": "/home/anthony/development/c#/Emulation/NES/nes.csproj",
+        "packagesPath": "/home/anthony/.nuget/packages/",
+        "outputPath": "/home/anthony/development/c#/Emulation/NES/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/anthony/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MonoGame.Content.Builder": {
+              "target": "Package",
+              "version": "[3.7.0.4, )"
+            },
+            "MonoGame.Framework.DesktopGL.Core": {
+              "target": "Package",
+              "version": "[3.7.0.7, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
